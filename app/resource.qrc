@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>fonts/OldSportAthletic.ttf</file>
+        <file>fonts/OldSansBlack.ttf</file>
+        <file>fonts/Tommy Regular.otf</file>
+        <file>img/blurborder2.jpg</file>
+    </qresource>
+</RCC>
